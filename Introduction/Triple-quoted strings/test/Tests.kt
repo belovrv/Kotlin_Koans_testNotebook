@@ -1,7 +1,7 @@
 import org.junit.Assert
 import org.junit.Test
 
-class Test {
+class TestTrippleQuotedStrings {
     @Test(timeout = 1000)
     fun testSolution() {
         Assert.assertEquals(
